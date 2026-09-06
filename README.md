@@ -66,9 +66,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeganath18&show_icons=true&theme=default&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Jeganath's GitHub stats" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeganath18&layout=compact" alt="Top Languages" height="165"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeganath18&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Jeganath's GitHub stats" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeganath18&layout=compact" alt="Top Languages" height="165"/> </p>
 
-Stats card shows: total commits (all-time, incl. private repos), total PRs opened, PRs merged, and PR-merge rate — pulled live from GitHub.
+Stats card shows: total commits (all-time, incl. private repos) and total PRs opened — pulled live from GitHub.
 
 ---
 
